@@ -11,5 +11,6 @@ export class DashboardComponent implements OnInit {
 
   ngOnInit() {
   }
-
+   public selected: boolean = true
+   public isCollapsed: boolean = true
 }
