@@ -7,6 +7,7 @@
 
 # dependencies
 /node_modules
+/src/assets/fontawesome-free-5.1.0-web
 
 # IDEs and editors
 /.idea
@@ -33,6 +34,7 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+
 
 # System Files
 .DS_Store
