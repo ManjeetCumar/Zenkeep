@@ -1,0 +1,8 @@
+#mainmenu li a{
+    display:block;
+    text-decoration: none;
+    color: #ddd;
+}
+#mainmenu li a:hover{
+    background: #16A085
+}
