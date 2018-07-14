@@ -1,0 +1,7 @@
+<div *ngIf="todisplay; else remainder">
+  <h4>Your Notes</h4>
+ <app-renderer  [inputarray]= "allNotes"></app-renderer>
+</div>
+<ng-template #remainder>
+<h4>Your Remainders</h4>
+</ng-template>
